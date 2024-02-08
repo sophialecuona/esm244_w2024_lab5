@@ -1,0 +1,13 @@
+---
+title: "Lab 5 - Sophia Lecuona"
+author: "Sophia Lecuona"
+format: html
+editor: visual
+---
+
+# Lab 5
+
+```{r}
+
+```
+
